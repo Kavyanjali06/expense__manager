@@ -1,0 +1,6 @@
+fintrack
+fintrack.exe
+*.exe
+data/transactions.txt
+data/transactions.tmp
+.vercel
